@@ -1,0 +1,5 @@
+gs\edu\provide\productone\impl\ProductServiceImpl.class
+gs\edu\provide\productone\services\IProductService.class
+gs\edu\provide\productone\mapper\ProductMapper.class
+gs\edu\provide\productone\controller\ProductController.class
+gs\edu\provide\productone\ProductOneApp.class

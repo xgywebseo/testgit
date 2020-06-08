@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="gs-edu-consumer" />
+        <module name="gseduconsumerfeign" />
+        <module name="gsedueurekaServer" />
+        <module name="gsedueurekaServerA" />
+        <module name="gsedufeignservice" />
+        <module name="gseduprovideproductone" />
+        <module name="gseduproviderproduct" />
+        <module name="gsedusecurity" />
+        <module name="gseduserviceapi" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="gs-edu.eurekaServer" target="1.5" />
+      <module name="gsedueurekaServerHA" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

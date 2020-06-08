@@ -1,0 +1,5 @@
+gs\edu\provider\product\ProductApp.class
+gs\edu\provider\product\services\IProductService.class
+gs\edu\provider\product\services\impl\ProductServiceImpl.class
+gs\edu\provider\product\mapper\ProductMapper.class
+gs\edu\provider\product\controller\ProductController.class
